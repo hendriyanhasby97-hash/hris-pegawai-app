@@ -1,0 +1,2 @@
+# hris-pegawai-app
+APLIKASI PENGELOLAAN DATABASE PEGAWAI 
